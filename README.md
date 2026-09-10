@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Mayank
 
-<!--
-**mayankgit2006/mayankgit2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full Stack Developer
 
-Here are some ideas to get you started:
+I'm a BTech student and full-stack enthusiast interested in
+building web applications and solving problems with DSA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+### Frontend
+HTML • CSS • JavaScript • React
+
+### Backend
+Node.js • Express.js
+
+### Database
+MongoDB • MySQL
+
+### Programming
+C++ • JavaScript
+
+---
+
+## 🚀 Projects
+
+### 📅 Event Manager
+A web application for managing events.
+
+### 🚆 Railway Tracking System
+A project focused on detecting railway line damage.
+
+---
+
+## 📚 Currently Learning
+
+- React
+- Node.js
+- MongoDB
+- DSA
+- Full Stack Development
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+## 🔗 Connect With Me
+
+- LinkedIn
+- Portfolio
+- Email
